@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Generate x values from 0 to 2*pi
-x = np.linspace(0, 2 * np.pi, 100)
+x = np.linspace(0, 2 * np.pi, 300)
 
 # Calculate y values using the sine function
 y = np.sin(x)
